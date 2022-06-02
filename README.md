@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo ao meu GitHub!!
 
 - 🔭 No momento busco uma oportunidade de estágio
-- 🌱 Estou cursando técnico em informática para internet e nas horas vagas exercito o que aprendo
+- 🌱 Estou cursando análise e desenvolvimento de sistemas e nas horas vagas exercito o que aprendo e compartilho aqui
 
 
 - Linguagens que ja estudei:
