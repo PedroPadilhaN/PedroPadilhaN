@@ -4,7 +4,7 @@
 - 🌱 Estou cursando análise e desenvolvimento de sistemas e nas horas vagas exercito o que aprendo e compartilho aqui
 
 
-- Linguagens que ja estudei:
+- Linguagens que tenho estudado:
 
   
 <div style="display: inline_block">
