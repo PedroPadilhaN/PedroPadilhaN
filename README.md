@@ -1,7 +1,6 @@
 ### Olá, seja bem-vindo ao meu GitHub!!
 
-- 🌱 Estou cursando análise e desenvolvimento de sistemas
-- 🔭 Busco uma oportunidade de estágio
+-  Estou cursando análise e desenvolvimento de sistemas
 
 
 - Linguagens que tenho estudado:
